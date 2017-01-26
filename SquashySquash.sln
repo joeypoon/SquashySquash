@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquashySquash", "SquashySquash.csproj", "{7BD24A9D-0D2A-B793-636C-E8061F395570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquashySquash.Editor", "SquashySquash.Editor.csproj", "{8D1D90A9-18B4-1390-D332-5B02F0044432}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BD24A9D-0D2A-B793-636C-E8061F395570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD24A9D-0D2A-B793-636C-E8061F395570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD24A9D-0D2A-B793-636C-E8061F395570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD24A9D-0D2A-B793-636C-E8061F395570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1D90A9-18B4-1390-D332-5B02F0044432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1D90A9-18B4-1390-D332-5B02F0044432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1D90A9-18B4-1390-D332-5B02F0044432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1D90A9-18B4-1390-D332-5B02F0044432}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
